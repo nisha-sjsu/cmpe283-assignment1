@@ -3,7 +3,9 @@ Discovering VMX Features
 
 <h3>Work done by Srinishaa Prabhakaran</h3>
 
-with machine configuration as : Machine type n2-standard-2 CPU platform Intel Cascade Lake Architecture x86/64
+Created vm using gcp UI with machine configuration as : <br>
+Machine type n2-standard-2 <br>
+CPU platform Intel Cascade Lake Architecture x86/64
 
 <b>Executed following commands on console</b><br><br> 
 #gcloud compute instances export instance-10 --destination=cmpe283-1.yaml<br> --zone=us-central1-a<br> 
